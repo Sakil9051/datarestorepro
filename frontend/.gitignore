@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Optional: Ignore minified files if you're using a build process
+*.min.js
+*.min.css
+
+# Optional: Ignore source maps
+*.map
+
+# Optional: Ignore any local configuration files
+config.local.js
